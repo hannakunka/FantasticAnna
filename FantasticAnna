@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<title>Anna's Fantastic Forest</title>
+</head>
+<body>
+	<h1>Anna's Fantastic Forest</h1>
+	<p>Deep, green forest where only rabbits are allowed. It is a dream world for the rabbits where carrorts are falling down from the sky.</p>
+	<img src="images/forest.jpg" width="400px" alt="Fantastic Forest">
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<title>Anna the Rabbit</title>
+<body>
+	<h1>Fantastic Anna</h1>
+	<br>
+	<p>Anna is a rabbit living in wonderland that likes to go on an adventures and find yummy carrots.</p>
+	<img src="images/rabbit.jpg" width="400px" alt="Hanna the Rabbit">
+	<br>
+	<ol>
+		<li></a href="habitat.html">Anna's Fantastic Forest</a></li>
+		<li><a href="habitat.html"> Anna's Forest</a></li>
+		<li><a href="sound.html">Sound of the Forest</a></li>
+	</ol>
+	
+			
+
+</body>
+</html>body{background-color: #A1E6CC;}
+h1{color: #5E937F ; font-family: Helvetica; font-size: 24px;}
+p{color: #FFFFFF; font-family: Arial; font-size: 14px;}
+img{margin-left: 250px; border-color: white; border-width: 5p}
+a{color: #2F6758 }
+a:hover{color: #AEBEBA }
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sounds of the Forest</title>
+</head>
+<body>
+	<img src="forest.jpg"> 
+
+</body>
+</html>
